@@ -35,6 +35,7 @@ The game solves the problem of **boring and overly complex blockchain games** - 
 - 📑 **Presentation Deck:** [Slide Deck Link](https://www.canva.com/design/DAG3R0UOkVI/6ejQDjPmNWxJRXbGyDeIBg/edit?utm_content=DAG3R0UOkVI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - 📺 **YouTube Game Video:** [YouTube Link](https://youtu.be/JpAKSgWgLIc)
 - 🌐 **Social Media:** [Threads](https://www.threads.com/@sampixelstudio?invite=0)
+- **Colosseum:** [Colosseum Project](https://arena.colosseum.org/projects/explore/magic-slime)
 
 ---
 

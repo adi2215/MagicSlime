@@ -18,14 +18,14 @@ The game solves the problem of **boring and overly complex blockchain games** - 
 
 ## 👤 Team  
 **Team Name:** 64Bit  
-**Developer:** Solo Developer — [Samurat Adilet]  
+**Developer:** Solo Developer - [Samurat Adilet]  
 - [GitHub](https://github.com/adi2215)  
 - [LinkedIn](https://www.linkedin.com/in/sam-pixel/)
 
 ---
 
 ## 🏆 Hackathon Participation  
-**Event:** Game Jam Track — *“Create Your Game in Solana with iDos Games SDK”*  
+**Event:** Game Jam Track - *“Create Your Game in Solana with iDos Games SDK”*  
 
 ---
 

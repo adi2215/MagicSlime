@@ -10,9 +10,9 @@ The game solves the problem of **boring and overly complex blockchain games** - 
 
 ## 🖼️ Screenshot / Cover  
 ### 🎨 Cover Art  
-![Magic Slime Cover](/mnt/data/Illudfgdron4.jpg)
+![Magic Slime Cover](Assets/Illudfgdron4.jpg)
 ### 🕹️ In-Game Screenshot  
-![Magic Slime Gameplay](/mnt/data/укрекноггн.PNG)
+![Magic Slime Gameplay](Assets/укрекноггн.PNG)
 
 ---
 

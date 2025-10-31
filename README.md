@@ -1,7 +1,5 @@
 # 🧙‍♂️ Magic Slime  
 
-### A Web3 Action Game powered by Solana & iDos Games SDK
-
 ---
 
 ## 🧩 Short Description  
